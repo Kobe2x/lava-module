@@ -28,8 +28,8 @@
 ## ⚙️ Настройка
 
 1.  Зайдите в админ-панель WHMCS.
-2.  Перейдите в **System Settings** -> **Payment Gateways**.
-3.  Найдите **All Payment Gateways** и активируйте **Lava.ru**.
+2.  Перейдите в **Настройки** -> **Приложения и интеграции**.
+3.  Найдите и активируйте **Lava**.
 4.  Заполните поля конфигурации:
     *   **Shop ID**: UUID вашего проекта из личного кабинета Lava.ru.
     *   **Secret Key**: Секретный ключ для подписи запросов (из настроек проекта в Lava).
@@ -44,7 +44,7 @@
 ```text
 MIT License
 
-Copyright (c) 2024 [Ваше Имя или Название Компании]
+Copyright (c) 2026 polenikaa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
