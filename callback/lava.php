@@ -5,7 +5,7 @@
  * Handles webhook notifications from Lava.ru payment system.
  * Documentation: https://dev.lava.ru/
  *
- * @author Custom
+ * @author Claude
  * @version 1.0
  */
 

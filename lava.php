@@ -6,7 +6,7 @@
  * Documentation: https://dev.lava.ru/
  * Based on official SDK: https://github.com/LavaDevelop/lava-sdk
  *
- * @author Custom
+ * @author Claude
  * @version 1.1
  */
 
